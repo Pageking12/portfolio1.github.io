@@ -1,0 +1,49 @@
+body{
+    background: linear-gradient(120deg,crimson,black);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 96vh;
+}
+.head1{
+    text-align: center;
+}
+.container1{
+    background: rgb(231, 255, 224);
+    height: 80%;
+    width: 25%;
+    position: absolute;
+    left: 20%;
+}
+.container1 a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    text-decoration: underline;
+}
+.container2{
+    background: rgb(15, 151, 151);
+    height: 80%;
+    width: 25%;
+    position: absolute;
+    left: 60%;
+}
+.container2 a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    text-decoration: underline;
+}
+.fa{
+    position: absolute;
+    left: 15%;
+    top: 12%;
+  
+  }
+  .icons1{
+      position: absolute;
+      left: 2%;
+      border-radius: 50%;
+      background: white;
+      width: 25px;
+      height: 25px;
+  }
