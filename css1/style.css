@@ -1,0 +1,22 @@
+img{
+    height: 250px;
+    width: 200px;
+    border-radius: 50%;
+}
+body{
+    background-color: gray;
+}
+.fa{
+    position: absolute;
+    left: 20%;
+    top: 12%;
+  
+  }
+  .icons1{
+      position: absolute;
+      left: 90%;
+      border-radius: 50%;
+      background: white;
+      width: 25px;
+      height: 25px;
+  }
