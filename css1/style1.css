@@ -1,0 +1,64 @@
+body{
+    background-color: #A4EEEF;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+}
+.content1{
+    background: white;
+    width: 75%;
+    height: 95%;
+    border-radius: 8px;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: 1px 1px 18px 8px; 
+}
+.const1{
+    background: rgb(148, 148, 148);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 24%;
+    height: 100%;
+}
+#pic1 img{
+    border-radius: 50%;
+    border: 2px solid black;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    left: 47%;
+    top: 2%;
+    box-shadow: 1px 5px 18px 8px;
+}
+.fa{
+    position: absolute;
+    left: 20%;
+    top: 12%;
+  
+  }
+  .icons1{
+      position: absolute;
+      left: 2%;
+      border-radius: 50%;
+      background: white;
+      width: 25px;
+      height: 25px;
+  }
+  #abt1{
+    position: absolute;
+      left: 25%;
+      top: 55%;
+      font-size: 25px;
+
+  }
+  .pic2 img{
+    position: absolute;
+    left: 47%;
+    top: 2%;
+    height: 250px;
+    width: 252px;
+    border-radius:50% ;
+  }
